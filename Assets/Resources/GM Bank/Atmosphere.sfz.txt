@@ -1,0 +1,33 @@
+//  ***** gm - Atmosphere *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+tune=-6
+ampeg_release=0.250
+
+<region>
+sample=ATMOS60A.wav
+hikey=55
+loop_start=5013
+loop_end=5096
+
+<region>
+sample=ATMOS60A.wav
+lokey=56
+hikey=79
+loop_start=5013
+loop_end=5096
+volume=-1
+
+<region>
+sample=ATMOS84.wav
+lokey=80
+loop_start=3175
+loop_end=3195
+pitch_keycenter=84
+volume=-1

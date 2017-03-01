@@ -1,0 +1,28 @@
+//  ***** gm - Crystal *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=FANTA81.wav
+lokey=103
+loop_start=2374
+loop_end=3194
+tune=-12
+pitch_keycenter=81
+volume=-10.600
+
+<region>
+sample=FNTBL53C.wav
+hikey=102
+loop_start=1428
+loop_end=1628
+tune=3
+pitch_keycenter=88
+volume=-2.600

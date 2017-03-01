@@ -1,0 +1,13 @@
+//  ***** gm - Gun Shot *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=PISTL60.wav
+pitch_keycenter=78
+ampeg_release=0.250
+
+<region>

@@ -1,0 +1,58 @@
+//  ***** gm - Church Org.1 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=C_ORG46A.wav
+hikey=52
+loop_start=1752
+loop_end=2123
+tune=-30
+pitch_keycenter=46
+volume=-27.200
+
+<region>
+sample=C_ORG56A.wav
+lokey=53
+hikey=60
+loop_start=914
+loop_end=1540
+tune=-28
+pitch_keycenter=56
+volume=-27.200
+
+<region>
+sample=C_ORG66A.wav
+lokey=61
+hikey=73
+loop_start=593
+loop_end=827
+tune=-25
+pitch_keycenter=66
+volume=-27.200
+
+<region>
+sample=C_ORG78A.wav
+lokey=74
+hikey=86
+loop_start=1211
+loop_end=1269
+tune=-17
+pitch_keycenter=78
+volume=-27.200
+
+<region>
+sample=C_ORG90A.wav
+lokey=87
+loop_start=764
+loop_end=792
+tune=-47
+pitch_keycenter=90
+volume=-24.600

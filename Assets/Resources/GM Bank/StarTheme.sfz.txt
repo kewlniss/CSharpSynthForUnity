@@ -1,0 +1,38 @@
+//  ***** gm - Star Theme *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=S_SAXA2.wav
+lokey=101
+loop_start=458
+loop_end=473
+tune=23
+pitch_keycenter=89
+volume=-16.300
+
+<region>
+sample=STAR_60A.wav
+hikey=83
+loop_start=2324
+loop_end=4600
+tune=50
+pitch_keycenter=61
+volume=-13.400
+
+<region>
+sample=STAR_84A.wav
+lokey=84
+hikey=100
+loop_start=2504
+loop_end=2524
+tune=40
+pitch_keycenter=85
+volume=-7.200

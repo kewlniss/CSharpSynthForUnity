@@ -1,0 +1,37 @@
+//  ***** gm - Halo Pad *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CHOIR65A.wav
+hikey=85
+loop_start=3689
+loop_end=12400
+tune=-20
+pitch_keycenter=68
+
+<region>
+sample=SPACE79.wav
+lokey=102
+loop_start=1346
+loop_end=6564
+tune=-4
+pitch_keycenter=79
+volume=-15.300
+
+<region>
+sample=SSTR186A.wav
+lokey=86
+hikey=101
+loop_start=82
+loop_end=9588
+tune=2
+pitch_keycenter=86
+volume=-9.100

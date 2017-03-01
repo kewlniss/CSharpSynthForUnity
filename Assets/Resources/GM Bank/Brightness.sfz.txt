@@ -1,0 +1,28 @@
+//  ***** gm - Brightness *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=FMVOX66A.wav
+hikey=80
+loop_start=844
+loop_end=3219
+tune=-6
+pitch_keycenter=66
+volume=-5.400
+
+<region>
+sample=FMVOX86A.wav
+lokey=81
+loop_start=684
+loop_end=3266
+tune=-5
+pitch_keycenter=86
+volume=-5.200

@@ -1,0 +1,58 @@
+//  ***** gm - Reed Organ *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=R_ORG53.wav
+hikey=46
+loop_start=41
+loop_end=294
+tune=10
+pitch_keycenter=53
+volume=-21.200
+
+<region>
+sample=R_ORG53.wav
+lokey=47
+hikey=68
+loop_start=41
+loop_end=294
+tune=10
+pitch_keycenter=53
+volume=-27.400
+
+<region>
+sample=R_ORG72.wav
+lokey=69
+hikey=83
+loop_start=12
+loop_end=54
+tune=35
+pitch_keycenter=72
+volume=-14
+
+<region>
+sample=R_ORG72.wav
+lokey=84
+hikey=92
+loop_start=12
+loop_end=54
+tune=35
+pitch_keycenter=72
+volume=-19.100
+
+<region>
+sample=R_ORG88.wav
+lokey=93
+loop_start=50
+loop_end=99
+tune=-6
+pitch_keycenter=88
+volume=-20.700

@@ -1,0 +1,66 @@
+//  ***** gm - Acoustic Bs. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=ACOBS32A.wav
+hikey=37
+loop_start=7814
+loop_end=8239
+tune=5
+pitch_keycenter=32
+volume=-4.400
+
+<region>
+sample=ACOBS43A.wav
+lokey=38
+hikey=51
+loop_start=6539
+loop_end=6989
+tune=4
+pitch_keycenter=43
+volume=-1.800
+
+<region>
+sample=ACOBS60A.wav
+lokey=52
+hikey=72
+loop_start=2639
+loop_end=2723
+tune=15
+volume=-1.800
+
+<region>
+sample=ACOBS60A.wav
+lokey=73
+hikey=84
+loop_start=2639
+loop_end=2723
+tune=15
+volume=-4.400
+
+<region>
+sample=HARP_83A.wav
+lokey=85
+hikey=86
+loop_start=2290
+loop_end=2758
+tune=1
+pitch_keycenter=83
+volume=-10.900
+
+<region>
+sample=HARP_96A.wav
+lokey=87
+loop_start=2033
+loop_end=2180
+tune=6
+pitch_keycenter=96
+volume=-17.800

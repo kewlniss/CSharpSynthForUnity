@@ -1,0 +1,67 @@
+//  ***** gm - Shamisen *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=R_ORG88.wav
+lokey=105
+loop_start=50
+loop_end=99
+tune=-6
+pitch_keycenter=88
+volume=-23.300
+
+<region>
+sample=SHAMI53.wav
+hikey=40
+loop_start=1065
+loop_end=1167
+tune=47
+pitch_keycenter=57
+
+<region>
+sample=SHAMI53.wav
+lokey=41
+hikey=59
+loop_start=1065
+loop_end=1167
+tune=47
+pitch_keycenter=57
+volume=-1.400
+
+<region>
+sample=SHAMI65.wav
+lokey=60
+hikey=74
+loop_start=806
+loop_end=857
+tune=-36
+pitch_keycenter=68
+volume=-2.500
+
+<region>
+sample=SHAMI77.wav
+lokey=75
+hikey=85
+loop_start=776
+loop_end=802
+tune=29
+pitch_keycenter=80
+volume=-2.500
+
+<region>
+sample=SHAMI89.wav
+lokey=86
+hikey=104
+loop_start=349
+loop_end=363
+tune=12
+pitch_keycenter=90
+volume=-2.600

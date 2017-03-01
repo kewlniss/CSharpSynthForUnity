@@ -1,0 +1,18 @@
+//  ***** gm - Seashore *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=SEA__60.wav
+loop_mode=loop_continuous
+loop_start=1
+loop_end=13667
+tune=44
+pitch_keycenter=70
+volume=-6.500
+ampeg_release=0.250
+
+<region>

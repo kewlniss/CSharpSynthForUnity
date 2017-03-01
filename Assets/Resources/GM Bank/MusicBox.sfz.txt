@@ -1,0 +1,48 @@
+//  ***** gm - Music Box *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CELSTA1.wav
+lokey=89
+hikey=102
+loop_start=81
+loop_end=142
+tune=-32
+pitch_keycenter=101
+volume=-8
+
+<region>
+sample=M_BOX82.wav
+hikey=57
+loop_start=583
+loop_end=795
+tune=1
+pitch_keycenter=82
+volume=-6.500
+
+<region>
+sample=M_BOX82.wav
+lokey=58
+hikey=88
+loop_start=583
+loop_end=795
+tune=1
+pitch_keycenter=82
+volume=-10.900
+
+<region>
+sample=MRMBA90.wav
+lokey=103
+loop_start=299
+loop_end=313
+tune=12
+pitch_keycenter=90
+volume=-12.900

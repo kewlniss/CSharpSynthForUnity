@@ -1,0 +1,56 @@
+//  ***** gm - French Horns *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=FHORN60.wav
+lokey=60
+hikey=67
+loop_start=5356
+loop_end=5777
+tune=2
+volume=-12.900
+
+<region>
+sample=FHORN60.wav
+hikey=59
+loop_start=5356
+loop_end=5777
+tune=2
+volume=-7.800
+
+<region>
+sample=FHORN72.wav
+lokey=68
+hikey=79
+loop_start=3831
+loop_end=4083
+tune=1
+pitch_keycenter=72
+volume=-10.100
+
+<region>
+sample=FHORN72.wav
+lokey=80
+hikey=99
+loop_start=3831
+loop_end=4083
+tune=1
+pitch_keycenter=72
+volume=-24.600
+
+<region>
+sample=S_SAXA8.wav
+lokey=100
+loop_start=366
+loop_end=409
+tune=-25
+pitch_keycenter=95
+volume=-21.500

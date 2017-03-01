@@ -1,0 +1,37 @@
+//  ***** gm - Xylophone *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=MRMBA90.wav
+lokey=102
+loop_start=299
+loop_end=313
+tune=12
+pitch_keycenter=90
+volume=-23.300
+
+<region>
+sample=XYLO_72.wav
+hikey=88
+loop_start=959
+loop_end=1083
+tune=-20
+pitch_keycenter=72
+volume=-2.400
+
+<region>
+sample=XYLO_93.wav
+lokey=89
+hikey=101
+loop_start=545
+loop_end=593
+tune=-39
+pitch_keycenter=93

@@ -1,0 +1,67 @@
+//  ***** gm - Clean Gt. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CLNGT48.wav
+hikey=54
+loop_start=4686
+loop_end=5023
+tune=4
+pitch_keycenter=48
+volume=-11.600
+
+<region>
+sample=CLNGT60.wav
+lokey=55
+hikey=62
+loop_start=3433
+loop_end=3769
+tune=-1
+volume=-12.400
+
+<region>
+sample=CLNGT67.wav
+lokey=63
+hikey=70
+loop_start=2877
+loop_end=3102
+tune=8
+pitch_keycenter=67
+volume=-12.400
+
+<region>
+sample=CLNGT72.wav
+lokey=71
+hikey=80
+loop_start=2013
+loop_end=2349
+tune=-1
+pitch_keycenter=72
+volume=-11.600
+
+<region>
+sample=CLNGT84.wav
+lokey=81
+hikey=99
+loop_start=2263
+loop_end=2284
+tune=-25
+pitch_keycenter=83
+volume=-11.600
+
+<region>
+sample=STLGT84B.wav
+lokey=100
+loop_start=2763
+loop_end=2952
+tune=3
+pitch_keycenter=84
+volume=-22.500

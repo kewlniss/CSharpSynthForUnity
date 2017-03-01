@@ -1,0 +1,58 @@
+//  ***** gm - Bassoon *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=B_SAXB0A.wav
+lokey=87
+hikey=95
+loop_start=63
+loop_end=72
+tune=10
+pitch_keycenter=109
+volume=-7.800
+
+<region>
+sample=BASSN44.wav
+hikey=50
+loop_start=561
+loop_end=772
+tune=-3
+pitch_keycenter=44
+volume=-15
+
+<region>
+sample=BASSN69.wav
+lokey=51
+hikey=68
+loop_start=205
+loop_end=253
+tune=-39
+pitch_keycenter=69
+volume=-7.700
+
+<region>
+sample=BASSN69.wav
+lokey=69
+hikey=86
+loop_start=205
+loop_end=253
+tune=-39
+pitch_keycenter=69
+volume=-8.800
+
+<region>
+sample=T_SAXA8.wav
+lokey=96
+loop_start=403
+loop_end=413
+tune=-25
+pitch_keycenter=95
+volume=-10.300

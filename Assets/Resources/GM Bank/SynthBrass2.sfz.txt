@@ -1,0 +1,47 @@
+//  ***** gm - Synth Brass2 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SBRS243.wav
+hikey=47
+loop_start=8834
+loop_end=9508
+pitch_keycenter=43
+volume=-11.800
+
+<region>
+sample=SBRS255.wav
+lokey=48
+hikey=67
+loop_start=5417
+loop_end=5754
+tune=3
+pitch_keycenter=55
+volume=-13.300
+
+<region>
+sample=SBRS272.wav
+lokey=68
+hikey=88
+loop_start=3494
+loop_end=3536
+tune=35
+pitch_keycenter=72
+volume=-10
+
+<region>
+sample=SBRS296.wav
+lokey=89
+loop_start=2406
+loop_end=2427
+tune=-25
+pitch_keycenter=95
+volume=-7.500

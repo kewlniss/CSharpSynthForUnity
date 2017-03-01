@@ -1,0 +1,38 @@
+//  ***** gm - Organ 2 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=EORG253.wav
+hikey=64
+loop_start=3682
+loop_end=3934
+tune=3
+pitch_keycenter=53
+volume=-4.700
+
+<region>
+sample=EORG268.wav
+lokey=65
+hikey=82
+loop_start=1663
+loop_end=1769
+tune=13
+pitch_keycenter=68
+volume=-3.400
+
+<region>
+sample=EORG286.wav
+lokey=83
+loop_start=1340
+loop_end=1414
+tune=-2
+pitch_keycenter=86
+volume=-8.500

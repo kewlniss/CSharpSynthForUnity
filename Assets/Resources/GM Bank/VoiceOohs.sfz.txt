@@ -1,0 +1,48 @@
+//  ***** gm - Voice Oohs *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=POPVX64A.wav
+hikey=68
+loop_start=918
+loop_end=2667
+tune=48
+pitch_keycenter=70
+volume=-19.400
+
+<region>
+sample=POPVX71A.wav
+lokey=69
+hikey=84
+loop_start=1315
+loop_end=3259
+tune=4
+pitch_keycenter=79
+volume=-9.600
+
+<region>
+sample=POPVX74A.wav
+lokey=85
+hikey=100
+loop_start=1445
+loop_end=3271
+tune=21
+pitch_keycenter=90
+volume=-9.600
+
+<region>
+sample=SBRS296.wav
+lokey=101
+loop_start=2406
+loop_end=2427
+tune=-25
+pitch_keycenter=95
+volume=-9.600

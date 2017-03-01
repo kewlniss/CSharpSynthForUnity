@@ -1,0 +1,28 @@
+//  ***** gm - Kalimba *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HARP_96A.wav
+lokey=104
+loop_start=2033
+loop_end=2180
+tune=6
+pitch_keycenter=96
+volume=-9.600
+
+<region>
+sample=KLMBA70.wav
+hikey=103
+loop_start=1446
+loop_end=1493
+tune=25
+pitch_keycenter=70
+volume=-1

@@ -1,0 +1,28 @@
+//  ***** gm - Tubular-bell *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=TUBLR84.wav
+loop_mode=loop_continuous
+loop_start=294
+loop_end=1165
+tune=-5
+pitch_keycenter=84
+ampeg_release=0.250
+
+<region>
+hikey=89
+volume=-18.600
+
+<region>
+lokey=90
+hikey=96
+volume=-25.900
+
+<region>
+lokey=97
+volume=-33.600

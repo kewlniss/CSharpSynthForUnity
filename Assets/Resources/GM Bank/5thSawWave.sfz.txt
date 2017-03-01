@@ -1,0 +1,37 @@
+//  ***** gm - 5th Saw Wave *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=5_SAW81.wav
+hikey=63
+loop_start=4157
+loop_end=7676
+tune=6
+pitch_keycenter=81
+
+<region>
+sample=5_SAW81.wav
+lokey=64
+hikey=105
+loop_start=4157
+loop_end=7676
+tune=6
+pitch_keycenter=81
+volume=-3.900
+
+<region>
+sample=ICE__84A.wav
+lokey=106
+loop_start=2237
+loop_end=3896
+tune=1
+pitch_keycenter=91
+volume=-9.300

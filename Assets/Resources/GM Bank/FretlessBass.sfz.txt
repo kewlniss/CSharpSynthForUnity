@@ -1,0 +1,66 @@
+//  ***** gm - Fretless Bs. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=FRTLS36A.wav
+hikey=42
+loop_start=9308
+loop_end=9644
+tune=-1
+pitch_keycenter=36
+volume=-8.300
+
+<region>
+sample=FRTLS48A.wav
+lokey=43
+hikey=66
+loop_start=5344
+loop_end=5512
+tune=4
+pitch_keycenter=48
+volume=-8.300
+
+<region>
+sample=FRTLS60A.wav
+lokey=67
+hikey=78
+loop_start=2496
+loop_end=2579
+tune=-6
+volume=-13.400
+
+<region>
+sample=JAZGTA1A.wav
+lokey=98
+loop_start=1843
+loop_end=2489
+pitch_keycenter=101
+volume=-23.500
+
+<region>
+sample=JAZGT84A.wav
+lokey=79
+hikey=88
+loop_start=4102
+loop_end=4987
+tune=2
+pitch_keycenter=84
+volume=-21.500
+
+<region>
+sample=JAZGT93A.wav
+lokey=89
+hikey=97
+loop_start=2882
+loop_end=3558
+tune=1
+pitch_keycenter=93
+volume=-23.500

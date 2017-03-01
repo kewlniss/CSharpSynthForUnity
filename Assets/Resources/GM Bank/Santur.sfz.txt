@@ -1,0 +1,37 @@
+//  ***** gm - Santur *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=KOTO_A2A.wav
+lokey=88
+loop_start=212
+loop_end=225
+tune=-8
+pitch_keycenter=103
+volume=-18.600
+
+<region>
+sample=SANTR74.wav
+hikey=55
+loop_start=1112
+loop_end=1521
+tune=-13
+pitch_keycenter=74
+
+<region>
+sample=SANTR74.wav
+lokey=56
+hikey=87
+loop_start=1112
+loop_end=1521
+tune=-13
+pitch_keycenter=74
+volume=-11.600

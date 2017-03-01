@@ -1,0 +1,59 @@
+//  ***** gm - Timpani *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=TMPNI47.wav
+tune=-44
+pitch_keycenter=55
+ampeg_release=0.250
+
+<region>
+hikey=50
+
+<region>
+lokey=51
+hikey=55
+volume=-2.500
+
+<region>
+lokey=56
+hikey=60
+volume=-5.600
+
+<region>
+lokey=61
+hikey=65
+volume=-9
+
+<region>
+lokey=66
+hikey=70
+volume=-14
+
+<region>
+lokey=71
+hikey=76
+volume=-20.800
+
+<region>
+lokey=77
+hikey=82
+volume=-35.200
+
+<region>
+lokey=83
+hikey=88
+volume=-64.800
+
+<region>
+lokey=89
+hikey=95
+volume=-90.300
+
+<region>
+lokey=96
+volume=-96

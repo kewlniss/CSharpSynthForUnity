@@ -1,0 +1,66 @@
+//  ***** gm - Square Wave *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SQUAR41.wav
+hikey=38
+loop_start=2991
+loop_end=6021
+pitch_keycenter=41
+volume=-10.900
+
+<region>
+sample=SQUAR48.wav
+lokey=39
+hikey=52
+loop_start=5198
+loop_end=7891
+tune=-2
+pitch_keycenter=48
+volume=-11.700
+
+<region>
+sample=SQUAR60.wav
+lokey=53
+hikey=63
+loop_start=4000
+loop_end=7550
+tune=5
+volume=-10.900
+
+<region>
+sample=SQUAR67.wav
+lokey=64
+hikey=77
+loop_start=1641
+loop_end=6953
+tune=8
+pitch_keycenter=67
+volume=-16
+
+<region>
+sample=SQUAR79.wav
+lokey=78
+hikey=97
+loop_start=2032
+loop_end=6820
+tune=3
+pitch_keycenter=79
+volume=-12.900
+
+<region>
+sample=SQUAR96.wav
+lokey=98
+loop_start=828
+loop_end=2627
+tune=-1
+pitch_keycenter=96
+volume=-4.400

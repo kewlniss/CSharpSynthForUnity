@@ -1,0 +1,47 @@
+//  ***** gm - Sitar *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SITAR60.wav
+hikey=70
+loop_start=469
+loop_end=551
+tune=-35
+volume=-15.500
+
+<region>
+sample=SITAR76.wav
+lokey=71
+hikey=81
+loop_start=445
+loop_end=477
+tune=-31
+pitch_keycenter=76
+volume=-18
+
+<region>
+sample=SITAR95.wav
+lokey=82
+hikey=97
+loop_start=345
+loop_end=366
+tune=-33
+pitch_keycenter=95
+volume=-15.500
+
+<region>
+sample=T_SAXA8.wav
+lokey=98
+loop_start=403
+loop_end=413
+tune=-25
+pitch_keycenter=95
+volume=-18.100

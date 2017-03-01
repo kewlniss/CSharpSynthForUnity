@@ -1,0 +1,28 @@
+//  ***** gm - Steel Drums *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HARP_96A.wav
+lokey=107
+loop_start=2033
+loop_end=2180
+tune=6
+pitch_keycenter=96
+volume=-25.900
+
+<region>
+sample=STLDR72.wav
+hikey=106
+loop_start=2661
+loop_end=3121
+tune=-29
+pitch_keycenter=83
+volume=-11.900

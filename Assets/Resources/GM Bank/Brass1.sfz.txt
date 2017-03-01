@@ -1,0 +1,47 @@
+//  ***** gm - Brass 1 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BRASS64.wav
+hikey=68
+loop_start=5805
+loop_end=5870
+tune=-23
+pitch_keycenter=64
+volume=-5.700
+
+<region>
+sample=BRASS72A.wav
+lokey=69
+hikey=80
+loop_start=7241
+loop_end=7451
+tune=2
+pitch_keycenter=72
+volume=-3.400
+
+<region>
+sample=BRASS84A.wav
+lokey=81
+hikey=90
+loop_start=7893
+loop_end=8187
+pitch_keycenter=84
+volume=-0.500
+
+<region>
+sample=BRASS96A.wav
+lokey=91
+loop_start=5183
+loop_end=5225
+tune=35
+pitch_keycenter=96
+volume=-8.300

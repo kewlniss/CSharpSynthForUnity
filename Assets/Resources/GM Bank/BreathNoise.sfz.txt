@@ -1,0 +1,38 @@
+//  ***** gm - Breath Noise *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=PANNS84.wav
+hikey=88
+loop_start=942
+loop_end=1781
+tune=-6
+pitch_keycenter=84
+volume=-42.900
+
+<region>
+sample=PANNS96.wav
+lokey=89
+hikey=108
+loop_start=484
+loop_end=882
+tune=-6
+pitch_keycenter=96
+volume=-32.200
+
+<region>
+sample=PICLO98.wav
+lokey=109
+loop_start=357
+loop_end=366
+tune=10
+pitch_keycenter=97
+volume=-32.200

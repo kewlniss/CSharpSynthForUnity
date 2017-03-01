@@ -1,0 +1,66 @@
+//  ***** gm - Muted Gt. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=JAZGTA1A.wav
+lokey=100
+loop_start=1843
+loop_end=2489
+pitch_keycenter=101
+volume=-23.800
+
+<region>
+sample=MUTGT43.wav
+hikey=69
+loop_start=1184
+loop_end=1408
+pitch_keycenter=43
+volume=-10.600
+
+<region>
+sample=MUTGT64.wav
+lokey=70
+hikey=72
+loop_start=1007
+loop_end=1073
+tune=3
+pitch_keycenter=64
+volume=-8.500
+
+<region>
+sample=MUTGT81.wav
+lokey=73
+hikey=86
+loop_start=485
+loop_end=509
+tune=-4
+pitch_keycenter=81
+volume=-8.500
+
+<region>
+sample=NYLON88A.wav
+lokey=87
+hikey=91
+loop_start=1727
+loop_end=1810
+tune=8
+pitch_keycenter=88
+volume=-14
+
+<region>
+sample=NYLON97A.wav
+lokey=92
+hikey=99
+loop_start=1008
+loop_end=1087
+tune=10
+pitch_keycenter=97
+volume=-16.300

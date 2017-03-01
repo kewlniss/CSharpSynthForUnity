@@ -1,0 +1,58 @@
+//  ***** gm - Bandoneon *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BANDO64.wav
+hikey=44
+loop_start=723
+loop_end=789
+tune=3
+pitch_keycenter=64
+volume=-6.500
+
+<region>
+sample=BANDO64.wav
+lokey=45
+hikey=71
+loop_start=723
+loop_end=789
+tune=3
+pitch_keycenter=64
+volume=-12.200
+
+<region>
+sample=BANDO74.wav
+lokey=72
+hikey=82
+loop_start=512
+loop_end=587
+tune=21
+pitch_keycenter=74
+volume=-12.900
+
+<region>
+sample=R_ORG72.wav
+lokey=83
+hikey=95
+loop_start=12
+loop_end=54
+tune=35
+pitch_keycenter=72
+volume=-14
+
+<region>
+sample=R_ORG88.wav
+lokey=96
+loop_start=50
+loop_end=99
+tune=-6
+pitch_keycenter=88
+volume=-12.900

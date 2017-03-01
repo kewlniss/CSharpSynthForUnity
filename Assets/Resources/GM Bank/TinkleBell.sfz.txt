@@ -1,0 +1,53 @@
+//  ***** gm - Tinkle Bell *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=TNKBLA5.wav
+loop_mode=loop_continuous
+loop_start=152
+loop_end=228
+tune=42
+pitch_keycenter=105
+ampeg_release=0.250
+
+<region>
+hikey=30
+volume=-45.800
+
+<region>
+lokey=31
+hikey=40
+volume=-37.600
+
+<region>
+lokey=41
+hikey=50
+volume=-30.600
+
+<region>
+lokey=51
+hikey=60
+volume=-24.600
+
+<region>
+lokey=61
+hikey=70
+volume=-19.300
+
+<region>
+lokey=71
+hikey=76
+volume=-12.400
+
+<region>
+lokey=77
+hikey=82
+volume=-7.600
+
+<region>
+lokey=83
+volume=-3.900

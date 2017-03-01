@@ -1,0 +1,38 @@
+//  ***** gm - Tremolo Str *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=STRNG52B.wav
+hikey=55
+loop_start=251
+loop_end=9960
+tune=-7
+pitch_keycenter=57
+volume=-19.500
+
+<region>
+sample=STRNG71B.wav
+lokey=56
+hikey=83
+loop_start=147
+loop_end=11418
+tune=-7
+pitch_keycenter=71
+volume=-19.500
+
+<region>
+sample=STRNG88B.wav
+lokey=84
+loop_start=136
+loop_end=7546
+tune=8
+pitch_keycenter=88
+volume=-23.200

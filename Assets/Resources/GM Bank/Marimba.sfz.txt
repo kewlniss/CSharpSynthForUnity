@@ -1,0 +1,66 @@
+//  ***** gm - Marimba *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=MRMBA50.wav
+hikey=48
+loop_start=1317
+loop_end=1910
+tune=-6
+pitch_keycenter=54
+volume=-17.100
+
+<region>
+sample=MRMBA50.wav
+hikey=48
+loop_start=1317
+loop_end=1910
+tune=-6
+pitch_keycenter=54
+volume=-17.100
+
+<region>
+sample=MRMBA62.wav
+lokey=49
+hikey=81
+loop_start=1528
+loop_end=1601
+tune=-25
+pitch_keycenter=62
+volume=-17.800
+
+<region>
+sample=MRMBA62.wav
+lokey=49
+hikey=81
+loop_start=1528
+loop_end=1601
+tune=-25
+pitch_keycenter=62
+volume=-17.800
+
+<region>
+sample=MRMBA90.wav
+lokey=82
+loop_start=299
+loop_end=313
+tune=12
+pitch_keycenter=90
+volume=-12.900
+
+<region>
+sample=MRMBA90.wav
+lokey=82
+loop_start=299
+loop_end=313
+tune=12
+pitch_keycenter=90
+volume=-12.900

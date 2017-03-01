@@ -1,0 +1,27 @@
+//  ***** gm - Space Voice *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=SPACE79.wav
+loop_mode=loop_continuous
+loop_start=1346
+loop_end=6564
+tune=-4
+pitch_keycenter=79
+ampeg_release=0.250
+
+<region>
+hikey=59
+
+<region>
+lokey=60
+hikey=97
+volume=-5.600
+
+<region>
+lokey=98
+volume=-10.600

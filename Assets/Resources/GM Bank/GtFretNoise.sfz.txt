@@ -1,0 +1,14 @@
+//  ***** gm - Gt.FretNoise *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=GFRET69.wav
+pitch_keycenter=69
+volume=-20.800
+ampeg_release=0.250
+
+<region>

@@ -1,0 +1,38 @@
+//  ***** gm - Organ 3 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=EORG367.wav
+hikey=55
+loop_start=1236
+loop_end=3496
+tune=22
+pitch_keycenter=71
+volume=-9.300
+
+<region>
+sample=EORG379.wav
+lokey=56
+hikey=69
+loop_start=1353
+loop_end=3669
+tune=-3
+pitch_keycenter=83
+volume=-5.500
+
+<region>
+sample=EORG391.wav
+lokey=70
+loop_start=1260
+loop_end=3443
+tune=-3
+pitch_keycenter=95
+volume=-5.500

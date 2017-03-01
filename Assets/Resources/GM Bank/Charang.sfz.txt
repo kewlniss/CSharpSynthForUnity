@@ -1,0 +1,46 @@
+//  ***** gm - Charang *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CHRNG60.wav
+hikey=52
+loop_start=5879
+loop_end=6131
+tune=1
+volume=-6.500
+
+<region>
+sample=CHRNG60.wav
+lokey=53
+hikey=72
+loop_start=5879
+loop_end=6131
+tune=1
+volume=-12.200
+
+<region>
+sample=CHRNG84.wav
+lokey=73
+hikey=101
+loop_start=3188
+loop_end=3230
+tune=35
+pitch_keycenter=84
+volume=-6.500
+
+<region>
+sample=DSTGTA9.wav
+lokey=102
+loop_start=503
+loop_end=512
+tune=10
+pitch_keycenter=97
+volume=-15.800

@@ -1,0 +1,57 @@
+//  ***** gm - Polysynth *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=POLY_48A.wav
+hikey=52
+loop_start=6350
+loop_end=6518
+tune=4
+pitch_keycenter=48
+volume=-25.400
+
+<region>
+sample=POLY_60A.wav
+lokey=53
+hikey=66
+loop_start=5713
+loop_end=5796
+tune=-6
+volume=-14.700
+
+<region>
+sample=POLY_72A.wav
+lokey=67
+hikey=78
+loop_start=4758
+loop_end=4800
+tune=35
+pitch_keycenter=72
+volume=-14.700
+
+<region>
+sample=POLY_84A.wav
+lokey=79
+hikey=90
+loop_start=4663
+loop_end=4684
+tune=-25
+pitch_keycenter=83
+volume=-14.700
+
+<region>
+sample=POLY_96A.wav
+lokey=91
+loop_start=3536
+loop_end=3546
+tune=-25
+pitch_keycenter=95
+volume=-14.700

@@ -1,0 +1,18 @@
+//  ***** gm - Reverse Cym. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+sample=CRASH60B.wav
+loop_mode=loop_continuous
+loop_start=2615
+loop_end=8290
+tune=-10
+pitch_keycenter=63
+volume=-10.900
+ampeg_release=0.250
+
+<region>

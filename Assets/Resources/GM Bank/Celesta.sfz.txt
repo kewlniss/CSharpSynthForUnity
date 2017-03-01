@@ -1,0 +1,38 @@
+//  ***** gm - Celesta *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CELSTA1.wav
+lokey=99
+hikey=102
+loop_start=81
+loop_end=142
+tune=-32
+pitch_keycenter=101
+volume=-13.200
+
+<region>
+sample=CELST77.wav
+hikey=98
+loop_start=292
+loop_end=543
+tune=-4
+pitch_keycenter=77
+volume=-10.900
+
+<region>
+sample=MRMBA90.wav
+lokey=103
+loop_start=299
+loop_end=313
+tune=12
+pitch_keycenter=90
+volume=-12.900

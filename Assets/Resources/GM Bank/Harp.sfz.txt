@@ -1,0 +1,46 @@
+//  ***** gm - Harp *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HARP_57A.wav
+hikey=62
+loop_start=3340
+loop_end=3840
+pitch_keycenter=57
+volume=-1.800
+
+<region>
+sample=HARP_70A.wav
+lokey=63
+hikey=76
+loop_start=2937
+loop_end=3456
+tune=-1
+pitch_keycenter=70
+volume=-1.800
+
+<region>
+sample=HARP_83A.wav
+lokey=77
+hikey=86
+loop_start=2290
+loop_end=2758
+tune=1
+pitch_keycenter=83
+
+<region>
+sample=HARP_96A.wav
+lokey=87
+loop_start=2033
+loop_end=2180
+tune=6
+pitch_keycenter=96
+volume=-7

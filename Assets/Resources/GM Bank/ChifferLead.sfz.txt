@@ -1,0 +1,28 @@
+//  ***** gm - Chiffer Lead *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CHFFR72A.wav
+hikey=78
+loop_start=5542
+loop_end=5583
+tune=-6
+pitch_keycenter=72
+volume=-5.500
+
+<region>
+sample=CHFFR84.wav
+lokey=79
+loop_start=5913
+loop_end=5934
+tune=-25
+pitch_keycenter=83
+volume=-4.500

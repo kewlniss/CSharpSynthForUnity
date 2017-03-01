@@ -1,0 +1,63 @@
+//  ***** gm - Banjo *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BANJO60.wav
+hikey=40
+loop_start=939
+loop_end=1021
+tune=-27
+
+<region>
+sample=BANJO60.wav
+lokey=41
+hikey=64
+loop_start=939
+loop_end=1021
+tune=-27
+volume=-3.300
+
+<region>
+sample=BANJO70.wav
+lokey=65
+hikey=79
+loop_start=814
+loop_end=1001
+tune=-11
+pitch_keycenter=70
+volume=-3.300
+
+<region>
+sample=BANJO83.wav
+lokey=80
+hikey=95
+loop_start=521
+loop_end=653
+tune=-12
+pitch_keycenter=83
+
+<region>
+sample=HRPSI87A.wav
+lokey=96
+hikey=101
+loop_start=3169
+loop_end=3664
+pitch_keycenter=87
+volume=-22.200
+
+<region>
+sample=R_ORG88.wav
+lokey=102
+loop_start=50
+loop_end=99
+tune=-6
+pitch_keycenter=88
+volume=-15.500

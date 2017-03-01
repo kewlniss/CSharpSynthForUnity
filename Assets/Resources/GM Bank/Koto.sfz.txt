@@ -1,0 +1,57 @@
+//  ***** gm - Koto *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HRPSI87A.wav
+lokey=98
+hikey=101
+loop_start=3169
+loop_end=3664
+pitch_keycenter=87
+volume=-17.100
+
+<region>
+sample=KOTO_57.wav
+hikey=47
+loop_start=1755
+loop_end=1842
+tune=-25
+pitch_keycenter=59
+volume=-3.700
+
+<region>
+sample=KOTO_57.wav
+lokey=48
+hikey=73
+loop_start=1755
+loop_end=1842
+tune=-25
+pitch_keycenter=59
+volume=-7
+
+<region>
+sample=KOTO_80.wav
+lokey=74
+hikey=97
+loop_start=1322
+loop_end=1347
+tune=-36
+pitch_keycenter=80
+volume=-3.600
+
+<region>
+sample=R_ORG88.wav
+lokey=102
+loop_start=50
+loop_end=99
+tune=-6
+pitch_keycenter=88
+volume=-18.100

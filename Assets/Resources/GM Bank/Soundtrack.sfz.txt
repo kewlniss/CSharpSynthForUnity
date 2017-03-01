@@ -1,0 +1,64 @@
+//  ***** gm - Soundtrack *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SOUND60.wav
+hikey=54
+loop_start=8409
+loop_end=11784
+tune=2
+
+<region>
+sample=SOUND60.wav
+lokey=55
+hikey=68
+loop_start=8409
+loop_end=11784
+tune=2
+volume=-17.100
+
+<region>
+sample=SOUND60.wav
+lokey=69
+hikey=77
+loop_start=8409
+loop_end=11784
+tune=2
+volume=-33.600
+
+<region>
+sample=SOUND84.wav
+lokey=78
+hikey=84
+loop_start=6590
+loop_end=9491
+tune=-3
+pitch_keycenter=84
+volume=-22.200
+
+<region>
+sample=SOUND84.wav
+lokey=96
+loop_start=6590
+loop_end=9491
+tune=-3
+pitch_keycenter=84
+volume=-73.400
+
+<region>
+sample=SOUND84.wav
+lokey=85
+hikey=95
+loop_start=6590
+loop_end=9491
+tune=-3
+pitch_keycenter=84
+volume=-41.400

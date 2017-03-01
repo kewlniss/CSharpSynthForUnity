@@ -1,0 +1,27 @@
+//  ***** gm - Solo Vox *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=FMVOX66A.wav
+hikey=69
+loop_start=844
+loop_end=3219
+tune=-6
+pitch_keycenter=66
+volume=-12.900
+
+<region>
+sample=SPACE79.wav
+lokey=70
+loop_start=1346
+loop_end=6564
+tune=-4
+pitch_keycenter=79

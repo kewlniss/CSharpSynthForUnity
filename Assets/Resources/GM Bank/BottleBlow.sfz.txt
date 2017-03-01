@@ -1,0 +1,38 @@
+//  ***** gm - Bottle Blow *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BOTTL72.wav
+hikey=81
+loop_start=1983
+loop_end=2024
+tune=-6
+pitch_keycenter=72
+volume=-9.600
+
+<region>
+sample=BOTTL84.wav
+lokey=82
+hikey=97
+loop_start=987
+loop_end=1007
+tune=-6
+pitch_keycenter=84
+volume=-8.300
+
+<region>
+sample=S_SAXA2.wav
+lokey=98
+loop_start=458
+loop_end=473
+tune=23
+pitch_keycenter=89
+volume=-13.200

@@ -1,0 +1,58 @@
+//  ***** gm - Shakuhachi *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=OCARI96A.wav
+lokey=103
+loop_start=2880
+loop_end=2890
+tune=-25
+pitch_keycenter=95
+volume=-17.300
+
+<region>
+sample=PICLO84.wav
+lokey=96
+hikey=102
+loop_start=668
+loop_end=688
+tune=-6
+pitch_keycenter=84
+volume=-14.700
+
+<region>
+sample=SHAKU63.wav
+hikey=66
+loop_start=3559
+loop_end=5894
+tune=-2
+pitch_keycenter=63
+volume=-23.900
+
+<region>
+sample=SHAKU70.wav
+lokey=67
+hikey=73
+loop_start=2962
+loop_end=4852
+tune=-1
+pitch_keycenter=70
+volume=-11.100
+
+<region>
+sample=SHAKU78.wav
+lokey=74
+hikey=95
+loop_start=2509
+loop_end=4502
+tune=-2
+pitch_keycenter=78
+volume=-8.800

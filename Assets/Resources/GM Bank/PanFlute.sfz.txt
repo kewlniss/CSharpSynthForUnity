@@ -1,0 +1,38 @@
+//  ***** gm - Pan Flute *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=PNFLT72.wav
+hikey=58
+loop_start=1680
+loop_end=3844
+tune=46
+pitch_keycenter=73
+volume=-6.500
+
+<region>
+sample=PNFLT72.wav
+lokey=59
+hikey=97
+loop_start=1680
+loop_end=3844
+tune=46
+pitch_keycenter=73
+volume=-11.400
+
+<region>
+sample=S_SAXA2.wav
+lokey=98
+loop_start=458
+loop_end=473
+tune=23
+pitch_keycenter=89
+volume=-11.900

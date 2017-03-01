@@ -1,0 +1,38 @@
+//  ***** gm - Sweep Pad *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SSTR148.wav
+hikey=52
+loop_start=169
+loop_end=10973
+tune=3
+pitch_keycenter=48
+volume=-17.300
+
+<region>
+sample=SSTR162A.wav
+lokey=53
+hikey=76
+loop_start=284
+loop_end=11024
+tune=3
+pitch_keycenter=69
+volume=-11.700
+
+<region>
+sample=SSTR186A.wav
+lokey=77
+loop_start=82
+loop_end=9588
+tune=2
+pitch_keycenter=86
+volume=-11.700

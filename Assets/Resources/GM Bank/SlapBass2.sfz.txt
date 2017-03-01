@@ -1,0 +1,56 @@
+//  ***** gm - Slap Bass 2 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SLPBS43.wav
+lokey=61
+hikey=69
+loop_start=3908
+loop_end=5486
+tune=4
+pitch_keycenter=43
+
+<region>
+sample=SLPBS84.wav
+lokey=70
+hikey=104
+loop_start=328
+loop_end=349
+tune=-25
+pitch_keycenter=83
+
+<region>
+sample=SLPMT52A.wav
+hikey=50
+loop_start=1260
+loop_end=1796
+tune=6
+pitch_keycenter=52
+volume=-8.100
+
+<region>
+sample=SLPMT52A.wav
+lokey=51
+hikey=60
+loop_start=1260
+loop_end=1796
+tune=6
+pitch_keycenter=52
+volume=-15.500
+
+<region>
+sample=STLGT84B.wav
+lokey=105
+loop_start=2763
+loop_end=2952
+tune=3
+pitch_keycenter=84
+volume=-27.700

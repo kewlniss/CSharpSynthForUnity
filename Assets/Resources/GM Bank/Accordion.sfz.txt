@@ -1,0 +1,46 @@
+//  ***** gm - Accordion Fr *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=ACCFR68A.wav
+hikey=48
+loop_start=2752
+loop_end=3760
+pitch_keycenter=68
+volume=-7.200
+
+<region>
+sample=ACCFR68A.wav
+lokey=49
+hikey=84
+loop_start=2752
+loop_end=3760
+pitch_keycenter=68
+volume=-15.800
+
+<region>
+sample=ACCFR96A.wav
+lokey=85
+hikey=95
+loop_start=2075
+loop_end=2158
+tune=-6
+pitch_keycenter=96
+volume=-3.600
+
+<region>
+sample=T_SAXA8.wav
+lokey=96
+loop_start=403
+loop_end=413
+tune=-25
+pitch_keycenter=95
+volume=-10.300

@@ -1,0 +1,57 @@
+//  ***** gm - Clav. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=CLAVI48.wav
+hikey=46
+loop_start=467
+loop_end=634
+tune=-6
+pitch_keycenter=48
+volume=-14.400
+
+<region>
+sample=CLAVI60.wav
+lokey=47
+hikey=65
+loop_start=290
+loop_end=373
+tune=-6
+volume=-11.800
+
+<region>
+sample=CLAVI72.wav
+lokey=66
+hikey=78
+loop_start=206
+loop_end=247
+tune=-6
+pitch_keycenter=72
+volume=-10.700
+
+<region>
+sample=CLAVI84.wav
+lokey=79
+hikey=95
+loop_start=76
+loop_end=96
+tune=-6
+pitch_keycenter=84
+volume=-16
+
+<region>
+sample=KOTO_A2A.wav
+lokey=96
+loop_start=212
+loop_end=225
+tune=-8
+pitch_keycenter=103
+volume=-28.400

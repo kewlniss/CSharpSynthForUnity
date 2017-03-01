@@ -1,0 +1,58 @@
+//  ***** gm - Bass & Lead *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BS_LD48.wav
+hikey=45
+loop_start=3213
+loop_end=3381
+tune=4
+pitch_keycenter=48
+volume=-7
+
+<region>
+sample=BS_LD48.wav
+lokey=46
+hikey=61
+loop_start=3213
+loop_end=3381
+tune=4
+pitch_keycenter=48
+volume=-15.500
+
+<region>
+sample=BS_LD72.wav
+lokey=62
+hikey=80
+loop_start=2555
+loop_end=2596
+tune=-6
+pitch_keycenter=72
+volume=-7.800
+
+<region>
+sample=BS_LD72.wav
+lokey=81
+hikey=95
+loop_start=2555
+loop_end=2596
+tune=-6
+pitch_keycenter=72
+volume=-13.400
+
+<region>
+sample=BS_LD96.wav
+lokey=96
+loop_start=2344
+loop_end=2364
+tune=-6
+pitch_keycenter=96
+volume=-7.700

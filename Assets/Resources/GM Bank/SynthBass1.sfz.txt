@@ -1,0 +1,48 @@
+//  ***** gm - Synth Bass 1 *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SYBS133.wav
+hikey=45
+loop_start=16476
+loop_end=16878
+tune=9
+pitch_keycenter=33
+volume=-8.700
+
+<region>
+sample=SYBS148A.wav
+lokey=46
+hikey=69
+loop_start=3475
+loop_end=3644
+tune=15
+pitch_keycenter=48
+volume=-6.900
+
+<region>
+sample=SYBS172A.wav
+lokey=70
+hikey=90
+loop_start=2445
+loop_end=2486
+tune=-6
+pitch_keycenter=72
+volume=-6.900
+
+<region>
+sample=SYBS196A.wav
+lokey=91
+loop_start=1356
+loop_end=1376
+tune=-6
+pitch_keycenter=96
+volume=-6.900

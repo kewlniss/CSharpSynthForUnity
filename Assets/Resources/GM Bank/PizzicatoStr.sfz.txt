@@ -1,0 +1,27 @@
+//  ***** gm - PizzicatoStr *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+volume=-4
+ampeg_release=0.250
+
+<region>
+sample=PIZZ_71.wav
+hikey=88
+loop_start=2073
+loop_end=2470
+tune=-17
+pitch_keycenter=71
+
+<region>
+sample=PIZZH84.wav
+lokey=89
+loop_start=549
+loop_end=685
+tune=1
+pitch_keycenter=96

@@ -1,0 +1,38 @@
+//  ***** gm - Glockenspiel *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=GLKN285.wav
+hikey=87
+loop_start=326
+loop_end=443
+tune=-19
+pitch_keycenter=85
+volume=-0.800
+
+<region>
+sample=GLKN385.wav
+lokey=88
+hikey=91
+loop_start=232
+loop_end=315
+tune=-8
+pitch_keycenter=91
+volume=-15.300
+
+<region>
+sample=GLKN585.wav
+lokey=92
+loop_start=125
+loop_end=168
+tune=-27
+pitch_keycenter=102
+volume=-17.300

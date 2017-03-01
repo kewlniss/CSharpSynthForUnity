@@ -1,0 +1,56 @@
+//  ***** gm - Saw Wave *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=SAW0_48.wav
+hikey=55
+loop_start=5111
+loop_end=15242
+tune=3
+pitch_keycenter=48
+volume=-5.700
+
+<region>
+sample=SAW0_60.wav
+lokey=56
+hikey=67
+loop_start=4408
+loop_end=10310
+tune=1
+
+<region>
+sample=SAW0_72.wav
+lokey=68
+hikey=85
+loop_start=3892
+loop_end=10018
+tune=5
+pitch_keycenter=72
+volume=-1.800
+
+<region>
+sample=SBRS296.wav
+lokey=108
+loop_start=2406
+loop_end=2427
+tune=-25
+pitch_keycenter=95
+volume=-7
+
+<region>
+sample=SSTR186A.wav
+lokey=86
+hikey=107
+loop_start=82
+loop_end=9588
+tune=2
+pitch_keycenter=86
+volume=-4.400

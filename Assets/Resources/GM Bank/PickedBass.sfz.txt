@@ -1,0 +1,67 @@
+//  ***** gm - Picked Bs. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=JAZGTA1A.wav
+lokey=98
+loop_start=1843
+loop_end=2489
+pitch_keycenter=101
+volume=-17.800
+
+<region>
+sample=JAZGT84A.wav
+lokey=79
+hikey=88
+loop_start=4102
+loop_end=4987
+tune=2
+pitch_keycenter=84
+volume=-15.800
+
+<region>
+sample=JAZGT93A.wav
+lokey=89
+hikey=97
+loop_start=2882
+loop_end=3558
+tune=1
+pitch_keycenter=93
+volume=-17.800
+
+<region>
+sample=PCKBS30A.wav
+hikey=35
+loop_start=6692
+loop_end=7169
+tune=4
+pitch_keycenter=30
+volume=-6.300
+
+<region>
+sample=PCKBS40A.wav
+lokey=36
+hikey=45
+loop_start=6302
+loop_end=6835
+tune=-4
+pitch_keycenter=40
+volume=-10.700
+
+<region>
+sample=PCKBS50A.wav
+lokey=46
+hikey=78
+loop_start=3397
+loop_end=3697
+tune=4
+pitch_keycenter=50
+volume=-10.700

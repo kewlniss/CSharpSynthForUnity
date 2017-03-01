@@ -1,0 +1,38 @@
+//  ***** gm - Ocarina *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=OCARI72A.wav
+hikey=81
+loop_start=3081
+loop_end=3123
+tune=35
+pitch_keycenter=72
+volume=-1.200
+
+<region>
+sample=OCARI84A.wav
+lokey=82
+hikey=90
+loop_start=2581
+loop_end=2602
+tune=-25
+pitch_keycenter=83
+volume=-3.800
+
+<region>
+sample=OCARI96A.wav
+lokey=91
+loop_start=2880
+loop_end=2890
+tune=-25
+pitch_keycenter=95
+volume=-7.700

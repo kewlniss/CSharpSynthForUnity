@@ -1,0 +1,48 @@
+//  ***** gm - Gt.Harmonics *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HRMGT52.wav
+hikey=64
+loop_start=784
+loop_end=854
+tune=27
+pitch_keycenter=67
+volume=-11.500
+
+<region>
+sample=HRMGT76.wav
+lokey=65
+hikey=80
+loop_start=691
+loop_end=708
+tune=26
+pitch_keycenter=82
+volume=-0.700
+
+<region>
+sample=HRMGT76.wav
+lokey=81
+hikey=95
+loop_start=691
+loop_end=708
+tune=26
+pitch_keycenter=82
+volume=-12.200
+
+<region>
+sample=HRMGT76.wav
+lokey=96
+loop_start=691
+loop_end=708
+tune=26
+pitch_keycenter=99
+volume=-20.200

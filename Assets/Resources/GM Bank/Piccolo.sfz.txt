@@ -1,0 +1,38 @@
+//  ***** gm - Piccolo *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=OCARI96A.wav
+lokey=103
+loop_start=2880
+loop_end=2890
+tune=-25
+pitch_keycenter=95
+volume=-9.100
+
+<region>
+sample=PICLO79.wav
+hikey=82
+loop_start=1115
+loop_end=1196
+tune=-49
+pitch_keycenter=79
+volume=-13
+
+<region>
+sample=PICLO84.wav
+lokey=83
+hikey=102
+loop_start=668
+loop_end=688
+tune=-6
+pitch_keycenter=84
+volume=-12.900

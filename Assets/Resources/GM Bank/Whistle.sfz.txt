@@ -1,0 +1,58 @@
+//  ***** gm - Whistle *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=OCARI96A.wav
+lokey=99
+loop_start=2880
+loop_end=2890
+tune=-25
+pitch_keycenter=95
+volume=-9.300
+
+<region>
+sample=SINE_52.wav
+hikey=52
+loop_start=100
+loop_end=232
+tune=-10
+pitch_keycenter=52
+volume=-6.300
+
+<region>
+sample=SINE_64.wav
+lokey=53
+hikey=64
+loop_start=51
+loop_end=117
+tune=3
+pitch_keycenter=64
+volume=-4.500
+
+<region>
+sample=SINE_76.wav
+lokey=65
+hikey=84
+loop_start=25
+loop_end=58
+tune=28
+pitch_keycenter=76
+volume=-4.400
+
+<region>
+sample=SINE_88.wav
+lokey=85
+hikey=98
+loop_start=13
+loop_end=29
+tune=28
+pitch_keycenter=88
+volume=-4.400

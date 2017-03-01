@@ -1,0 +1,58 @@
+//  ***** gm - Fingered Bs. *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=MMBAS40.wav
+hikey=43
+loop_start=2717
+loop_end=2822
+tune=-3
+pitch_keycenter=56
+volume=-10.200
+
+<region>
+sample=MMBAS43.wav
+lokey=44
+hikey=54
+loop_start=2472
+loop_end=2560
+tune=-6
+pitch_keycenter=59
+volume=-6.200
+
+<region>
+sample=MMBAS62.wav
+lokey=55
+hikey=80
+loop_start=997
+loop_end=1130
+tune=3
+pitch_keycenter=76
+volume=-2.500
+
+<region>
+sample=MMBAS62.wav
+lokey=81
+hikey=106
+loop_start=997
+loop_end=1130
+tune=3
+pitch_keycenter=76
+volume=-11.600
+
+<region>
+sample=SINE_A0A.wav
+lokey=107
+loop_start=11
+loop_end=28
+tune=27
+pitch_keycenter=99
+volume=-28.400

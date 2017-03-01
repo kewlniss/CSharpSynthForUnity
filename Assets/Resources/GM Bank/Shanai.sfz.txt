@@ -1,0 +1,58 @@
+//  ***** gm - Shanai *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=BAGPP64A.wav
+hikey=59
+loop_start=2513
+loop_end=2780
+tune=-7
+pitch_keycenter=64
+volume=-5.200
+
+<region>
+sample=BAGPP74A.wav
+lokey=60
+hikey=71
+loop_start=1787
+loop_end=1824
+tune=11
+pitch_keycenter=74
+volume=-10.600
+
+<region>
+sample=BAGPP84A.wav
+lokey=72
+hikey=79
+loop_start=1781
+loop_end=1949
+tune=-5
+pitch_keycenter=84
+volume=-9.100
+
+<region>
+sample=BAGPP93A.wav
+lokey=80
+hikey=95
+loop_start=684
+loop_end=772
+tune=16
+pitch_keycenter=93
+volume=-5.200
+
+<region>
+sample=HARMOA8.wav
+lokey=96
+loop_start=1
+loop_end=21
+tune=-15
+pitch_keycenter=96
+volume=-4.200

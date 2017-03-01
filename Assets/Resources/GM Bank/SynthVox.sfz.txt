@@ -1,0 +1,48 @@
+//  ***** gm - SynVox *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=HARMOA8.wav
+lokey=103
+loop_start=1
+loop_end=21
+tune=-6
+pitch_keycenter=96
+volume=-18.100
+
+<region>
+sample=SYNVXA6A.wav
+lokey=90
+hikey=102
+loop_start=29
+loop_end=1588
+tune=-27
+pitch_keycenter=106
+volume=-15.300
+
+<region>
+sample=SYNVX70.wav
+hikey=55
+loop_start=18
+loop_end=5377
+tune=-27
+pitch_keycenter=74
+volume=-6.500
+
+<region>
+sample=SYNVX70.wav
+lokey=56
+hikey=89
+loop_start=18
+loop_end=5377
+tune=-27
+pitch_keycenter=74
+volume=-12.100

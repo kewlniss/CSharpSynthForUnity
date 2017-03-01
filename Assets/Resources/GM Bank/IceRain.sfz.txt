@@ -1,0 +1,38 @@
+//  ***** gm - Ice Rain *****
+//  Soundfont converted using sfZed
+//  SoundFont version 2.1
+//  E-mu 10K1
+//  Using Virtual Sampler
+
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.250
+
+<region>
+sample=ICE__60A.wav
+hikey=78
+loop_start=2901
+loop_end=4752
+tune=-4
+pitch_keycenter=67
+volume=-6.200
+
+<region>
+sample=ICE__84A.wav
+lokey=79
+hikey=90
+loop_start=2237
+loop_end=3896
+tune=1
+pitch_keycenter=91
+volume=-4.400
+
+<region>
+sample=ICE__84A.wav
+lokey=91
+loop_start=2237
+loop_end=3896
+tune=1
+pitch_keycenter=91
+volume=-6.300
