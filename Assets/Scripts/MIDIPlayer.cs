@@ -28,10 +28,6 @@ public class MIDIPlayer : MonoBehaviour
     private float sliderValue = 1.0f;
     private float maxSliderValue = 127.0f;
 
-    public string[] myMusic;
-    [SerializeField]
-    private int currentMusic;
-
     // Awake is called when the script instance
     // is being loaded.
     void Awake()
